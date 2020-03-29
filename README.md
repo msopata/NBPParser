@@ -14,10 +14,10 @@ Technologies used:
 For example run
 java pl.nbpparser.MainClass CHF 2020-01-02 2020-01-31
 
-Output would be:
-CHF > currency code
-2020-01-02 > start date
-2020-01-31 > end date
-3.9495425 > average rate
-0.03312773 > standard deviation
+Output would be: <br />
+CHF > currency code <br />
+2020-01-02 > start date  <br />
+2020-01-31 > end date  <br />
+3.9495425 > average rate  <br />
+0.03312773 > standard deviation  <br />
 
